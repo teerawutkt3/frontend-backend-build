@@ -1,3 +1,4 @@
 1 ==> run 1.build_client
 2 ==> run as administrator 2.copy_file_client_to_server_byRunAdmin
-3 ==> srun 3.build_war
+3 ==> run 3.build_war
+4 ==> run as administrator 4.copy_warFile_to_this_folder_byRunAdmin
