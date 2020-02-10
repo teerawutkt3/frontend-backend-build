@@ -1,6 +1,9 @@
 export default {
   items: [
     {
+      name: 'Electric Water Bill', url: '/bill/', icon: 'fa fa-dollar',
+    },
+    {
       name: 'Dashboard',
       url: '/dashboard',
       icon: 'icon-speedometer',
