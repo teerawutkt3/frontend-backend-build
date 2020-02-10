@@ -24,3 +24,5 @@ yarn-error.log*
 *.sln
 *.sw*
 .metadata
+.vue-core-ui
+vue-core-ui
